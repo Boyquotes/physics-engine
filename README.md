@@ -5,3 +5,4 @@
 
 - https://github.com/chandlerprall/Physijs ThreeJS
 - https://github.com/pmndrs/react-three-rapier R3F
+- Kavok BabylonJS
